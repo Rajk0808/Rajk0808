@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 3rd Year B.Tech Student | Batch of 2026  
+- 🎓 Final Year B.Tech Student | Batch of 2026  
 - 💼 GeeksforGeeks Campus Ambassador  
 - 🌱 Currently Learning: **Django REST Framework**, **TensorFlow**, and **Data Science**
 - 🧪 Love building real-world projects combining **ML + Web Dev**
